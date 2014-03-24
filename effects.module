@@ -1,0 +1,6 @@
+<?php
+
+efects_init()
+{
+	echo "hello";
+}
